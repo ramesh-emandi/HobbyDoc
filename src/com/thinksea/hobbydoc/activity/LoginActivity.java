@@ -22,7 +22,6 @@ public class LoginActivity extends Activity implements OnClickListener{
 		initUI();
 		setTitle();
 		loginButton.setOnClickListener(this);
-		
 		super.onCreate(savedInstanceState);
 	}
 	
